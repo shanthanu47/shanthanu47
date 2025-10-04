@@ -21,6 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shanthanu47&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src="https://preview.redd.it/the-one-who-uses-light-ide-v0-rtms3ndho07b1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=ff0e06be7e04a8b8899194f6e102265cbeb82b2c" width="512px"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=shanthanu47&icon=0&color=0)](https://visitcount.itsvg.in)
 
