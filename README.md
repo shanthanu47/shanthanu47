@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shanthanu Shenoy , a recent B.Tech graduate in Artificial Intelligence and Data Science from the University of Mumbai (8.21 GPA), passionate about building intelligent systems at the intersection of AI/ML and software engineering.<br>I've worked as a Tech and Data Intern at Growth For Impact, where I built AI-augmented web scraping pipelines with LLM-powered agents, automated CI/CD workflows, and developed full-stack dashboards. My experience spans:<br>AI/ML Engineering: RAG pipelines (LangChain, Nvidia NIM), Computer Vision (YOLOv8), LLMs, and vector databases<br>Full-Stack Development: React, Next.js, Node.js, FastAPI with payment integrations (Razorpay, Stripe) and cloud deployment<br>Data Engineering: Intelligent web scrapers, automation frameworks (Playwright, Selenium), and pipeline orchestration<br>I've built projects ranging from real-time pothole detection systems to e-commerce platforms, and I'm a 2nd Runner-Up at the AI Amplify Hackathon.<br>I'm actively seeking full-time opportunities in AI Engineering, Full-Stack Development, or Data Engineering roles where I can contribute to building scalable, impactful solutions.<br>Let's connect if you're building something interesting!
+Hi, I'm Shanthanu Shenoy ,<br>Let's connect if you're building something interesting!
 
 
 ## 🌐 Socials:
